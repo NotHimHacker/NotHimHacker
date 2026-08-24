@@ -1,6 +1,6 @@
 <!--
-  Profile README for github.com/ItzGhost-xD
-  To go live: create a repo named EXACTLY "ItzGhost-xD" (public), drop this in as README.md.
+  Profile README for github.com/NotHimHacker
+  To go live: create a repo named EXACTLY "NotHimHacker" (public), drop this in as README.md.
   TODO before publishing: portfolio URL, email, LinkedIn — see commented badge blocks below.
   Uncomment + fill in once each is ready. Discord card is live but needs the join-server step
   described below to actually populate (see chat message).
@@ -8,14 +8,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8347e0,100:ec3399&height=160&section=header&text=Ghost&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%40ItzGhost-xD&descAlignY=58&descSize=16" width="100%" alt="Ghost — backend developer, cybersecurity engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8347e0,100:ec3399&height=160&section=header&text=Ghost&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%40NotHimHacker&descAlignY=58&descSize=16" width="100%" alt="Ghost — backend developer, cybersecurity engineer"/>
 
 ### `Backend Developer • Cybersecurity Engineer`
 
 [![Discord](https://discord-readme-badge.vercel.app/api?id=839956251336245278)](https://discord.com/users/839956251336245278)
 
-[![GitHub](https://img.shields.io/badge/GitHub-ItzGhost--xD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItzGhost-xD)
-[![BatsyAPI](https://img.shields.io/badge/Project-BatsyAPI-ec3399?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/ItzGhost-xD/BatsyAPI)
+[![GitHub](https://img.shields.io/badge/GitHub-ItzGhost--xD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHimHacker)
+[![BatsyAPI](https://img.shields.io/badge/Project-BatsyAPI-ec3399?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/NotHimHacker/BatsyAPI)
 [![Live API](https://img.shields.io/badge/Try_the_API-live-8347e0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://api.nothimhacker.space)
 
 <!-- Uncomment as each becomes ready:
@@ -24,7 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
 -->
 
-<img src="https://komarev.com/ghpvc/?username=ItzGhost-xD&color=ec3399&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=NotHimHacker&color=ec3399&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
@@ -62,13 +62,13 @@ Serves live Discord status, activity, Spotify, and game data over REST and WebSo
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/Repo-BatsyAPI-8347e0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItzGhost-xD/BatsyAPI)
+[![Repo](https://img.shields.io/badge/Repo-BatsyAPI-8347e0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHimHacker/BatsyAPI)
 [![Live API](https://img.shields.io/badge/Try_the_API-live-ec3399?style=for-the-badge&logo=googlechrome&logoColor=white)](https://api.nothimhacker.space)
 ![License](https://img.shields.io/badge/License-MIT-8347e0?style=for-the-badge)
 
 </div>
 
-More builds are in progress — see [all repos →](https://github.com/ItzGhost-xD?tab=repositories)
+More builds are in progress — see [all repos →](https://github.com/NotHimHacker?tab=repositories)
 
 ---
 
@@ -94,12 +94,12 @@ More builds are in progress — see [all repos →](https://github.com/ItzGhost-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ItzGhost-xD&hide_border=true&include_all_commits=true&title_color=ec3399&icon_color=8347e0&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzGhost-xD&hide_border=true&layout=compact&title_color=ec3399&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NotHimHacker&hide_border=true&include_all_commits=true&title_color=ec3399&icon_color=8347e0&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHimHacker&hide_border=true&layout=compact&title_color=ec3399&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" height="180"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ItzGhost-xD&hide_border=true&background=0D1117&ring=EC3399&fire=8347E0&currStreakLabel=EC3399&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B8FA3)](https://github.com/ItzGhost-xD)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NotHimHacker&hide_border=true&background=0D1117&ring=EC3399&fire=8347E0&currStreakLabel=EC3399&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B8FA3)](https://github.com/NotHimHacker)
 
 </div>
 
@@ -109,7 +109,7 @@ More builds are in progress — see [all repos →](https://github.com/ItzGhost-
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ItzGhost-xD&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=NotHimHacker&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=7)
 
 </div>
 
@@ -121,7 +121,7 @@ More builds are in progress — see [all repos →](https://github.com/ItzGhost-
 
 Into backend systems, Discord infrastructure, or security? Reach out.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ItzGhost-xD)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NotHimHacker)
 
 <!-- Add once ready — same pattern as the header badges:
 [![Portfolio](...)] [![Email](...)] [![LinkedIn](...)] [![Discord](...)]
